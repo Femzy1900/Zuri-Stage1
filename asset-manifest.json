@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Zuri-Stage2/static/css/main.db99b511.css",
-    "main.js": "/Zuri-Stage2/static/js/main.3801e5cd.js",
-    "static/media/i4g.png": "/Zuri-Stage2/static/media/i4g.81df28a85abd62c72b70.png",
-    "static/media/profile__img.png": "/Zuri-Stage2/static/media/profile__img.7b86d12c9aeab4be0aa5.png",
-    "static/media/zuri.png": "/Zuri-Stage2/static/media/zuri.e83a42c01276a3049019.png",
-    "index.html": "/Zuri-Stage2/index.html",
-    "main.db99b511.css.map": "/Zuri-Stage2/static/css/main.db99b511.css.map",
-    "main.3801e5cd.js.map": "/Zuri-Stage2/static/js/main.3801e5cd.js.map"
+    "main.css": "/Zuri-2/static/css/main.db99b511.css",
+    "main.js": "/Zuri-2/static/js/main.eb3bb801.js",
+    "static/media/i4g.png": "/Zuri-2/static/media/i4g.81df28a85abd62c72b70.png",
+    "static/media/profile__img.png": "/Zuri-2/static/media/profile__img.7b86d12c9aeab4be0aa5.png",
+    "static/media/zuri.png": "/Zuri-2/static/media/zuri.e83a42c01276a3049019.png",
+    "index.html": "/Zuri-2/index.html",
+    "main.db99b511.css.map": "/Zuri-2/static/css/main.db99b511.css.map",
+    "main.eb3bb801.js.map": "/Zuri-2/static/js/main.eb3bb801.js.map"
   },
   "entrypoints": [
     "static/css/main.db99b511.css",
-    "static/js/main.3801e5cd.js"
+    "static/js/main.eb3bb801.js"
   ]
 }
